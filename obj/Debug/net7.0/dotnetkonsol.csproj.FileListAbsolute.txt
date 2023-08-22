@@ -1,0 +1,15 @@
+/Users/kadirdundar/dotnetkonsol/bin/Debug/net7.0/dotnetkonsol
+/Users/kadirdundar/dotnetkonsol/bin/Debug/net7.0/dotnetkonsol.deps.json
+/Users/kadirdundar/dotnetkonsol/bin/Debug/net7.0/dotnetkonsol.runtimeconfig.json
+/Users/kadirdundar/dotnetkonsol/bin/Debug/net7.0/dotnetkonsol.dll
+/Users/kadirdundar/dotnetkonsol/bin/Debug/net7.0/dotnetkonsol.pdb
+/Users/kadirdundar/dotnetkonsol/obj/Debug/net7.0/dotnetkonsol.csproj.AssemblyReference.cache
+/Users/kadirdundar/dotnetkonsol/obj/Debug/net7.0/dotnetkonsol.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kadirdundar/dotnetkonsol/obj/Debug/net7.0/dotnetkonsol.AssemblyInfoInputs.cache
+/Users/kadirdundar/dotnetkonsol/obj/Debug/net7.0/dotnetkonsol.AssemblyInfo.cs
+/Users/kadirdundar/dotnetkonsol/obj/Debug/net7.0/dotnetkonsol.csproj.CoreCompileInputs.cache
+/Users/kadirdundar/dotnetkonsol/obj/Debug/net7.0/dotnetkonsol.dll
+/Users/kadirdundar/dotnetkonsol/obj/Debug/net7.0/refint/dotnetkonsol.dll
+/Users/kadirdundar/dotnetkonsol/obj/Debug/net7.0/dotnetkonsol.pdb
+/Users/kadirdundar/dotnetkonsol/obj/Debug/net7.0/dotnetkonsol.genruntimeconfig.cache
+/Users/kadirdundar/dotnetkonsol/obj/Debug/net7.0/ref/dotnetkonsol.dll
